@@ -40,7 +40,7 @@ Url 클릭[웹페이지 GitHub](https://github.com/syoh1113/html-study-1)
   print("Hello world!")
 ```
 
-[GitHub Flavored Markdown](https://github.github.com/gfm/)
+기존 마크다운에서 체크다운 기능정도가 추가됨. [GitHub Flavored Markdown](https://github.github.com/gfm/)
 
 #### 참고
 https://www.youtube.com/watch?v=kMEb_BzyUqk
